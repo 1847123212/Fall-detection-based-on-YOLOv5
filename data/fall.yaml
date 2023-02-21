@@ -1,0 +1,11 @@
+path: C:\Users\22950\Desktop\fall
+train:
+  - fall_train.txt
+val:
+  - fall_val.txt
+test:
+  - fall_test.txt
+
+# Classes
+names:
+  0: fall
